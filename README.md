@@ -1,5 +1,4 @@
-(English)
-## Feature Updates
+## Feature Updates (English):
 
 Let's consider the need to add new features:
 
@@ -28,10 +27,9 @@ To address the new requirements, we need to:
 
 To facilitate user interaction, it's essential to create a convenient menu for accessing these functions.
 
+## _
 
-
-(Ukrainian)
-## Завдання:
+## Завдання(Ukrainian):
 
 Уявімо, що нам треба додати нові фічі.
 
